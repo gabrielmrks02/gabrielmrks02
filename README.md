@@ -3,7 +3,7 @@
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas 
 - 🌱 Atualmente estou estudando PHP 
-- 👯 Em Busca do Primeiro Estagio 
+- 🛠️ Em Busca do Primeiro Estagio 
 
 <div align="center">
   <a href="https://github.com/gabrielmrks02">
