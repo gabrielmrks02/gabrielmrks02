@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente estou estudando PHP 
+- 🌱 Atualmente estou estudando Javascript 
 - 🛠️ Em Busca do Primeiro Estagio 
 
 <div align="center">
