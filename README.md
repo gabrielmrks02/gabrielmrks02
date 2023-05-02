@@ -2,8 +2,8 @@
 
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente estou estudando Javascript 
-- 🛠️ Em Busca do Primeiro Estagio 
+- 🌱 Atualmente estou estudando Python
+- 🛠️ Em Busca da primeira vaga na área
 
 <div align="center">
   <a href="https://github.com/gabrielmrks02">
