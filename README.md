@@ -17,6 +17,8 @@
 <img align= "center" alt = gabi-js height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align= "center" alt = gabi-sql height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img  align= "center" alt = gabi-php height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img  align= "center" alt = gabi height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 
  
  
