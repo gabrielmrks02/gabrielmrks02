@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente estou estudando Python
+- 🌱 Atualmente estou estudando desenvolvimento web
 - 🛠️ Em Busca da primeira vaga na área
 
 <div align="center">
